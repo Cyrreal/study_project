@@ -1,0 +1,16 @@
+.tabContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 350px;
+  height: 250px;
+  background-color: white;
+  border: 4px solid #000000;
+  border-radius: 32px;
+  cursor: pointer;
+  user-select: none;
+
+  &:hover {
+    background-color: #64984984;
+  }
+}
