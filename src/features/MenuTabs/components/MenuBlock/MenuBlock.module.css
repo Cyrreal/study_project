@@ -1,0 +1,26 @@
+.menuPosition {
+  font-size: 36px;
+  width: 256px;
+  height: 256px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+}
+
+.name {
+  text-align: center;
+}
+
+.dishCounter {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 4px;
+}
+
+.button {
+  height: 40px;
+  width: 40px;
+}
