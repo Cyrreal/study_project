@@ -1,0 +1,29 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.nameInput {
+  max-width: 160px;
+  width: 100%;
+  height: 32px;
+}
+
+.reviewInput {
+  max-width: 160px;
+  width: 100%;
+  height: 76px;
+}
+
+.button {
+  width: 260px;
+}
+
+.counter {
+  width: 140px;
+}

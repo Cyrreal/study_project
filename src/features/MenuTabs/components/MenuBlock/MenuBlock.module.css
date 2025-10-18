@@ -12,15 +12,3 @@
 .name {
   text-align: center;
 }
-
-.dishCounter {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 4px;
-}
-
-.button {
-  height: 40px;
-  width: 40px;
-}
